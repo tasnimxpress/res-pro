@@ -200,15 +200,7 @@ input, select, textarea {
 	  justify-content: center;
 	  align-items: center;
 	}
-	
-	.project {
-		background: #ffff;
-		padding-top: 2 0px;
-		padding-bottom: 50px;
-		padding-left: 200px;
-		padding-right: 200px;
-	
-	 }
+
 	
 	
 		@media (max-width: 750px) {
@@ -224,7 +216,7 @@ input, select, textarea {
 		  }
 	
 	
-	--------------------------------------------------------------------------------------------------
+
 	
 	.inner{
 		text-align: center;
@@ -3031,7 +3023,7 @@ input, select, textarea {
 
 
 
-/* Main */
+/* Main *
 
 	#main {
 		margin-left: 375px;
@@ -3195,10 +3187,10 @@ input, select, textarea {
 				margin-bottom: 15px;
 			}
 
-
+		}
 		
 
-		/* Main */
+		/* Main *
 
 			#main {
 				-moz-backface-visibility: hidden;
