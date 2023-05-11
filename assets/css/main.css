@@ -202,9 +202,15 @@ input, select, textarea {
 	}
 	.pc-color{
 		background-color: #ffffff;
+		align-items: center;
+		padding-right: 10%;
+		padding-left: 10%;
 	}
 	.ac-color{
+		align-items: center;
 		background-color: #c4d6e2;
+		padding-right: 10%;
+		padding-left: 10%;
 	}
 
 	
