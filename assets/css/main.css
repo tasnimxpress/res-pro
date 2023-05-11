@@ -2936,11 +2936,11 @@
 
 	@media screen and (min-width: 961px) and (max-width: 1880px) {
 
-		/* Basic */
+		/* Basic 
 
 			body, input, textarea, select {
 				font-size: 17pt;
-			}
+			} */
 
 		/* Header */
 
@@ -2976,11 +2976,11 @@
 
 	@media screen and (min-width: 961px) and (max-width: 1320px) {
 
-		/* Basic */
+		/* Basic 
 
 			body, input, textarea, select {
 				font-size: 16pt;
-			}
+			} */
 
 			.container {
 				padding: 0 2em 0 2em;
@@ -3011,7 +3011,7 @@
 
 	@media screen and (max-width: 960px) {
 
-		/* Basic */
+		/* Basic 
 
 			html, body {
 				overflow-x: hidden;
@@ -3019,7 +3019,7 @@
 
 			body, input, textarea, select {
 				font-size: 16pt;
-			}
+			} */
 
 			header br {
 				display: none;
