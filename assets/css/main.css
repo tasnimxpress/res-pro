@@ -4202,7 +4202,7 @@ body.is-preload .items.onload-fade-in > * > .inner {
 
 	/* Item */
 
-		.itemx {
+		.item {
 			margin-bottom: 20px;
 		}
 
@@ -4245,7 +4245,7 @@ body.is-preload .items.onload-fade-in > * > .inner {
 
 	/* Item */
 
-		.itemx {
+		.item {
 			margin-bottom: 15px;
 		}
 
