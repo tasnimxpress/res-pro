@@ -1706,8 +1706,8 @@ input, select, textarea {
 				}
 
 		.row {
-			margin-top: -40px;
-			margin-left: -40px;
+			margin-top: 0px;
+			margin-left: 40px;
 		}
 
 			.row > * {
