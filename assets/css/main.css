@@ -946,12 +946,12 @@
 			}
 	
 			@media screen and (max-width: 736px) {
-	
+				/*
 				.spotlight.style1 .content {
 					padding: 2.5rem 2rem 0.5rem 2rem ;
-				}
+				}*/
 	
-			}
+			} 
 	
 		@media screen and (max-width: 736px) and (orientation: portrait) {
 	
@@ -3043,11 +3043,11 @@
 
 	@media screen and (max-width: 736px) {
 
-		/* Basic */
+		/* Basic 
 
 			body, input, textarea, select {
 				font-size: 14pt;
-			}
+			}*/
 
 			h2 {
 				font-size: 1.5em;
