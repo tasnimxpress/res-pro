@@ -214,6 +214,8 @@ input, select, textarea {
 	}
 
 	
+
+	
 	
 		@media (max-width: 750px) {
 		  .home .text-one{
@@ -3140,30 +3142,6 @@ input, select, textarea {
 		}
 		
 
-		/* Main *
-
-			#main {
-				-moz-backface-visibility: hidden;
-				-webkit-backface-visibility: hidden;
-				-ms-backface-visibility: hidden;
-				backface-visibility: hidden;
-				-moz-transition: -moz-transform 0.5s ease;
-				-webkit-transition: -webkit-transform 0.5s ease;
-				-ms-transition: -ms-transform 0.5s ease;
-				transition: transform 0.5s ease;
-				padding-bottom: 1px;
-				margin-left: 0;
-			}
-
-				#main > section {
-					padding: 3em 0;
-				}
-
-				#main section.cover {
-					padding: 4em 0;
-				}
-
-	}
 
 /* Mobile */
 
@@ -3214,7 +3192,7 @@ input, select, textarea {
 
 .gallery.style2 {
 		color: #ffffff;
-	
+
 	
 	}
 
@@ -3236,6 +3214,7 @@ input, select, textarea {
 			overflow: hidden;
 			width: 100%;
 			max-width: 100%;
+			color: #fff;
 		
 		}
 
